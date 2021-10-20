@@ -1,0 +1,12 @@
+D:\C#\MiniWord_VoQuocHung\MiniWord_VoQuocHung\bin\Debug\MiniWord_VoQuocHung.exe.config
+D:\C#\MiniWord_VoQuocHung\MiniWord_VoQuocHung\bin\Debug\MiniWord_VoQuocHung.exe
+D:\C#\MiniWord_VoQuocHung\MiniWord_VoQuocHung\bin\Debug\MiniWord_VoQuocHung.pdb
+D:\C#\MiniWord_VoQuocHung\MiniWord_VoQuocHung\obj\Debug\MiniWord_VoQuocHung.csproj.AssemblyReference.cache
+D:\C#\MiniWord_VoQuocHung\MiniWord_VoQuocHung\obj\Debug\MiniWord_VoQuocHung.frmQuocHung.resources
+D:\C#\MiniWord_VoQuocHung\MiniWord_VoQuocHung\obj\Debug\MiniWord_VoQuocHung.Properties.Resources.resources
+D:\C#\MiniWord_VoQuocHung\MiniWord_VoQuocHung\obj\Debug\MiniWord_VoQuocHung.csproj.GenerateResource.cache
+D:\C#\MiniWord_VoQuocHung\MiniWord_VoQuocHung\obj\Debug\MiniWord_VoQuocHung.csproj.CoreCompileInputs.cache
+D:\C#\MiniWord_VoQuocHung\MiniWord_VoQuocHung\obj\Debug\MiniWord_VoQuocHung.exe
+D:\C#\MiniWord_VoQuocHung\MiniWord_VoQuocHung\obj\Debug\MiniWord_VoQuocHung.pdb
+D:\C#\MiniWord_VoQuocHung\MiniWord_VoQuocHung\obj\Debug\MiniWord_VoQuocHung.FormFind.resources
+D:\C#\MiniWord_VoQuocHung\MiniWord_VoQuocHung\obj\Debug\MiniWord_VoQuocHung.FormReplace.resources
